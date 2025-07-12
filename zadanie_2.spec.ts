@@ -10,4 +10,5 @@ test('блок “Избранная статья”', async ({ page }) => {
   const paragraphs = page.locator('p');
   const count = await paragraphs.count();
   expect(count).toBeGreaterThan(0);
+  console.log("This is first commit in new branch")
 });
