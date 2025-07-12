@@ -1,0 +1,593 @@
+# Page snapshot
+
+```yaml
+- main:
+  - link "Справка о страницах значений":
+    - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C#Страницы_значений
+    - img "Справка о страницах значений"
+  - heading "Тест" [level=1]
+  - text: "["
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=0&summary=/*%20Преамбула%20*/%20
+  - text: "] Материал из Википедии — свободной энциклопедии"
+  - link "Перейти к навигации":
+    - /url: "#mw-head"
+  - link "Перейти к поиску":
+    - /url: "#searchInput"
+  - text: В
+  - link "Викисловаре":
+    - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C
+  - text: есть статья «
+  - link "тест":
+    - /url: https://ru.wiktionary.org/wiki/%D1%82%D0%B5%D1%81%D1%82
+  - text: »
+  - navigation "Содержание":
+    - button "Скрыть содержание"
+    - heading "Содержание" [level=2]
+    - text: "[скрыть]"
+    - list:
+      - listitem:
+        - link "1 Испытание технических систем":
+          - /url: "#Испытание_технических_систем"
+      - listitem:
+        - link "2 Программирование":
+          - /url: "#Программирование"
+      - listitem:
+        - link "3 Математика":
+          - /url: "#Математика"
+      - listitem:
+        - link "4 Тестирование человека":
+          - /url: "#Тестирование_человека"
+        - list:
+          - listitem:
+            - link "4.1 Медицина":
+              - /url: "#Медицина"
+          - listitem:
+            - link "4.2 Педагогика":
+              - /url: "#Педагогика"
+          - listitem:
+            - link "4.3 Психология":
+              - /url: "#Психология"
+          - listitem:
+            - link "4.4 Социология":
+              - /url: "#Социология"
+          - listitem:
+            - link "4.5 Юриспруденция":
+              - /url: "#Юриспруденция"
+      - listitem:
+        - link "5 Персоналии":
+          - /url: "#Персоналии"
+      - listitem:
+        - link "6 См. также":
+          - /url: "#См._также"
+  - paragraph:
+    - text: Тест (от
+    - link "англ.":
+      - /url: /wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA
+    - text: test «испытание, проверка») или испытание — способ изучения глубинных процессов деятельности системы, посредством помещения системы в разные ситуации и отслеживание доступных наблюдению изменений в ней.
+  - heading "Испытание технических систем" [level=2]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=1
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=1
+  - text: "]"
+  - list:
+    - listitem:
+      - link "Испытание (техника)":
+        - /url: /wiki/%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_(%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)
+    - listitem:
+      - link "Краш-тест":
+        - /url: /wiki/%D0%9A%D1%80%D0%B0%D1%88-%D1%82%D0%B5%D1%81%D1%82
+      - text: — автомобилей.
+    - listitem:
+      - text: Методом компьютерного
+      - link "физического моделирования":
+        - /url: /wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_(%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+      - text: .
+  - heading "Программирование" [level=2]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=2
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=2
+  - text: "]"
+  - paragraph: В целях выявления ошибок в компьютерных программах используют
+  - list:
+    - listitem:
+      - link "Тестирование программного обеспечения":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F
+    - listitem:
+      - link "Бета-тестирование":
+        - /url: /wiki/%D0%91%D0%B5%D1%82%D0%B0-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - paragraph: Также к области программирования можно отнести такие тесты, как
+  - list:
+    - listitem:
+      - link "Тест Тьюринга":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B0
+    - listitem:
+      - link "Тест простоты":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%82%D1%8B
+  - paragraph:
+    - text: и утилиту
+    - link "UNIX":
+      - /url: /wiki/UNIX
+  - list:
+    - listitem:
+      - link "test":
+        - /url: /wiki/Test
+  - heading "Математика" [level=2]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=3
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=3
+  - text: "]"
+  - list:
+    - listitem:
+      - link "Тест Люка — Лемера":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%9B%D1%8E%D0%BA%D0%B0_%E2%80%94_%D0%9B%D0%B5%D0%BC%D0%B5%D1%80%D0%B0
+    - listitem:
+      - link "Тест Пепина":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%9F%D0%B5%D0%BF%D0%B8%D0%BD%D0%B0
+    - listitem:
+      - link "Тест Миллера (теория чисел)":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B0_(%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%87%D0%B8%D1%81%D0%B5%D0%BB)
+      - text: — полиномиальный детерминированный тест простоты, основывающийся на расширенной гипотезе Римана.
+    - listitem:
+      - link "Тест Миллера — Рабина":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%A0%D0%B0%D0%B1%D0%B8%D0%BD%D0%B0
+      - text: — вероятностный полиномиальный тест простоты
+    - listitem:
+      - link "Тесты diehard":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82%D1%8B_diehard
+      - text: ", Обезьяньи тесты (Monkey Tests) — набор статистических тестов для измерения качества набора случайных чисел"
+  - heading "Тестирование человека" [level=2]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=4
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=4
+  - text: "]"
+  - heading "Медицина" [level=3]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=5
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=5
+  - text: "]"
+  - figure "«Две полоски», означающие положительный результат при проверке на беременность":
+    - link:
+      - /url: //commons.wikimedia.org/wiki/File:Pregnancy_test_result.jpg?uselang=ru
+      - img
+    - text: «Две полоски», означающие положительный результат при проверке на беременность
+  - paragraph: В медицине для выявления заболеваний, или склонности к ним человека, используют
+  - list:
+    - listitem:
+      - link "Тест на ВИЧ":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%BD%D0%B0_%D0%92%D0%98%D0%A7
+    - listitem:
+      - link "Глюкозотолерантный тест":
+        - /url: /wiki/%D0%93%D0%BB%D1%8E%D0%BA%D0%BE%D0%B7%D0%BE%D1%82%D0%BE%D0%BB%D0%B5%D1%80%D0%B0%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%81%D1%82
+  - paragraph: для выявления беременности используют
+  - list:
+    - listitem:
+      - link "Тест на беременность":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%BD%D0%B0_%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C
+    - listitem:
+      - link "Амниотест":
+        - /url: /wiki/%D0%90%D0%BC%D0%BD%D0%B8%D0%BE%D1%82%D0%B5%D1%81%D1%82
+      - text: — тест на подтекание околоплодных вод.
+  - heading "Педагогика" [level=3]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=6
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=6
+  - text: "]"
+  - list:
+    - listitem:
+      - link "Педагогическое тестирование":
+        - /url: /wiki/%D0%9F%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+    - listitem:
+      - link "GMAT":
+        - /url: /wiki/GMAT
+    - listitem:
+      - link "Единый государственный экзамен":
+        - /url: /wiki/%D0%95%D0%B4%D0%B8%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD
+      - text: (ЕГЭ)
+    - listitem:
+      - link "Единое национальное тестирование":
+        - /url: /wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: (ЕНТ)
+  - heading "Психология" [level=3]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=7
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=7
+  - text: "]"
+  - figure "Одна из «клякс» теста Роршаха":
+    - link:
+      - /url: //commons.wikimedia.org/wiki/File:Rorschach_like_Inkblot.svg?uselang=ru
+      - img
+    - text: Одна из «клякс» теста Роршаха
+  - paragraph: "Психологические тесты нужны для того, чтобы узнать что-либо о личности, которая будет их проходить. Признаками таких тестов являются: кратковременность, стандартизованность, не требует сложных технических приспособлений, результаты — число, статистическая обработка."
+  - list:
+    - listitem:
+      - link "Цветовой тест Люшера":
+        - /url: /wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D1%82%D0%B5%D1%81%D1%82_%D0%9B%D1%8E%D1%88%D0%B5%D1%80%D0%B0
+    - listitem:
+      - link "Тест Роршаха":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%A0%D0%BE%D1%80%D1%88%D0%B0%D1%85%D0%B0
+    - listitem:
+      - link "Тематический апперцептивный тест":
+        - /url: /wiki/%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B5%D1%80%D1%86%D0%B5%D0%BF%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%81%D1%82
+    - listitem:
+      - link "Психологическое тестирование":
+        - /url: /wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - heading "Социология" [level=3]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=8
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=8
+  - text: "]"
+  - list:
+    - listitem:
+      - link "Метод анкетирования":
+        - /url: /wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F
+      - text: (
+      - link "Анкета":
+        - /url: /wiki/%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0
+      - text: )
+    - listitem:
+      - link "Метод опроса":
+        - /url: /wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%B0
+    - listitem:
+      - link "Метод беседы":
+        - /url: /wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D1%8B
+    - listitem:
+      - link "Фокус-тестирование":
+        - /url: /w/index.php?title=%D0%A4%D0%BE%D0%BA%D1%83%D1%81-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&action=edit&redlink=1
+      - link "фокус-группой":
+        - /url: /wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0
+  - heading "Юриспруденция" [level=3]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=9
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=9
+  - text: "]"
+  - list:
+    - listitem:
+      - link "Тест-акт":
+        - /url: /wiki/%D0%90%D0%BA%D1%82_%D0%BE_%D0%BF%D1%80%D0%B8%D1%81%D1%8F%D0%B3%D0%B5
+      - text: (1673) — английского парламента.
+    - listitem:
+      - link "Тест Миллера":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B0_(%D0%BF%D1%80%D0%B0%D0%B2%D0%BE)
+      - text: (также называется Трёхсторонний тест,
+      - link "англ.":
+        - /url: /wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA
+      - text: Three Prong Obscenity Test) — тест, применяемый в Верховном суде США с 1973 года для определения, может ли тот или иной материал быть признан непристойным и быть запрещён, не попадая под защиту первой поправки к конституции
+    - listitem:
+      - text: Тесты на знание истории, культуры и законов страны, в которой человек собирается
+      - link "постоянно проживать":
+        - /url: /wiki/%D0%98%D0%BC%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F
+      - text: ", входят в процедуру"
+      - link "натурализации":
+        - /url: /wiki/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+      - text: .
+  - heading "Персоналии" [level=2]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=10
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=10
+  - text: "]"
+  - list:
+    - listitem:
+      - link "Тест, Джон":
+        - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82,_%D0%94%D0%B6%D0%BE%D0%BD&action=edit&redlink=1
+      - superscript:
+        - link "[англ.]":
+          - /url: https://en.wikipedia.org/wiki/John_Test
+      - text: (1781—1849) — член
+      - link "Палаты представителей США":
+        - /url: /wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D0%B0_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%A1%D0%A8%D0%90
+      - text: (1823—1825, 1827—1829).
+    - listitem:
+      - link "Тест, Жан-Батист":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82,_%D0%96%D0%B0%D0%BD-%D0%91%D0%B0%D1%82%D0%B8%D1%81%D1%82
+      - text: (1780—1852) — французский адвокат и государственный деятель.
+    - listitem:
+      - link "Тест, Зак":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82,_%D0%97%D0%B0%D0%BA
+      - text: (р. 1989) — американский регбист.
+    - listitem:
+      - link "Тест, Франсуа Антуан":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0_%D0%90%D0%BD%D1%82%D1%83%D0%B0%D0%BD
+      - text: (1775—1862) — французский генерал наполеоновских войн.
+    - listitem:
+      - link "Папин Тест, Далглиш":
+        - /url: /w/index.php?title=%D0%9F%D0%B0%D0%BF%D0%B8%D0%BD_%D0%A2%D0%B5%D1%81%D1%82,_%D0%94%D0%B0%D0%BB%D0%B3%D0%BB%D0%B8%D1%88&action=edit&redlink=1
+      - superscript:
+        - link "[англ.]":
+          - /url: https://en.wikipedia.org/wiki/Dalglish_Papin_Test
+      - text: (род. 1991) — малайзийский футболист, игрок
+      - link "чемпионата Малайзии":
+        - /url: /wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9C%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83
+      - text: в составе клуба «Саравак».
+    - listitem:
+      - link "Мартин, Эндрю":
+        - /url: /wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD,_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E
+      - text: (1975—2009) — канадский рестлер, также известный под кличкой Тест.
+  - heading "См. также" [level=2]
+  - text: "["
+  - link "править":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit&section=11
+  - text: "|"
+  - link "править код":
+    - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit&section=11
+  - text: "]"
+  - list:
+    - listitem:
+      - link "Список статей, названия которых начинаются с «тест»":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%BE_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%83_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D1%82%D0%B5%D1%81%D1%82
+    - listitem:
+      - link "Чёрный ящик":
+        - /url: /wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D1%8F%D1%89%D0%B8%D0%BA
+  - note:
+    - link "Список значений слова или словосочетания со ссылками на соответствующие статьи.":
+      - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C#Страницы_значений
+    - text: Если вы попали сюда из
+    - link "другой статьи Википедии":
+      - /url: https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:WhatLinksHere/%D0%A2%D0%B5%D1%81%D1%82&namespace=0&hidetrans=1
+    - text: ", пожалуйста, вернитесь и"
+    - link "уточните ссылку":
+      - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA
+    - text: так, чтобы она указывала на нужную статью. См. также
+    - link "страницы с «Тест» в начале названия":
+      - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%BE_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%83_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82
+    - text: ","
+    - link "поиск по названиям":
+      - /url: https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Search&search=intitle%3A%22%D0%A2%D0%B5%D1%81%D1%82%22&sort=create_timestamp_desc
+    - text: .
+  - link "Категория":
+    - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8
+  - text: ":"
+  - list:
+    - listitem:
+      - link "Страницы значений по алфавиту":
+        - /url: /wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83
+- heading "Навигация" [level=2]
+- navigation "Персональные инструменты":
+  - list:
+    - listitem: Вы не представились системе
+    - listitem:
+      - link "Обсуждение":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+    - listitem:
+      - link "Вклад":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4
+    - listitem:
+      - link "Создать учётную запись":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&returnto=%D0%A2%D0%B5%D1%81%D1%82
+    - listitem:
+      - link "Войти":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&returnto=%D0%A2%D0%B5%D1%81%D1%82
+- navigation "Пространства имён":
+  - list:
+    - listitem:
+      - link "Статья":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82
+    - listitem:
+      - link "Обсуждение":
+        - /url: /wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A2%D0%B5%D1%81%D1%82
+- navigation "Просмотры":
+  - list:
+    - listitem:
+      - link "Читать":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82
+    - listitem:
+      - link "Править":
+        - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&veaction=edit
+    - listitem:
+      - link "Править код":
+        - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=edit
+    - listitem:
+      - link "История":
+        - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=history
+- search:
+  - heading "Поиск" [level=3]
+  - searchbox "Искать в Википедии"
+  - button "Найти"
+  - button "Перейти"
+- banner:
+  - link "Перейти на заглавную страницу":
+    - /url: /wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+- navigation "Навигация":
+  - list:
+    - listitem:
+      - link "Заглавная страница":
+        - /url: /wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+    - listitem:
+      - link "Содержание":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5
+    - listitem:
+      - link "Избранные статьи":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8
+    - listitem:
+      - link "Случайная статья":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+    - listitem:
+      - link "Текущие события":
+        - /url: /wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F
+    - listitem:
+      - link "Пожертвовать":
+        - /url: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=ru.wikipedia.org&uselang=ru
+- navigation "Участие":
+  - heading "Участие" [level=3]
+  - list:
+    - listitem:
+      - button "Сообщить об ошибке"
+    - listitem:
+      - link "Как править статьи":
+        - /url: /wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+    - listitem:
+      - link "Сообщество":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+    - listitem:
+      - link "Форум":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC
+    - listitem:
+      - link "Справка":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0
+    - listitem:
+      - link "Свежие правки":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8
+    - listitem:
+      - link "Новые страницы":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B
+    - listitem:
+      - link "Служебные страницы":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B
+- navigation "Инструменты":
+  - heading "Инструменты" [level=3]
+  - list:
+    - listitem:
+      - link "Ссылки сюда":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A2%D0%B5%D1%81%D1%82
+    - listitem:
+      - link "Связанные правки":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A2%D0%B5%D1%81%D1%82
+    - listitem:
+      - link "Постоянная ссылка":
+        - /url: https://ru.wikipedia.org/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&oldid=146024723
+    - listitem:
+      - link "Сведения о странице":
+        - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&action=info
+    - listitem:
+      - link "Цитировать страницу":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&page=%D0%A2%D0%B5%D1%81%D1%82&id=146024723&wpFormIdentifier=titleform
+    - listitem:
+      - link "Получить короткий URL":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A2%25D0%25B5%25D1%2581%25D1%2582
+    - listitem:
+      - link "Скачать QR-код":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A2%25D0%25B5%25D1%2581%25D1%2582
+- navigation "Печать/экспорт":
+  - heading "Печать/экспорт" [level=3]
+  - list:
+    - listitem:
+      - link "Скачать как PDF":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&page=%D0%A2%D0%B5%D1%81%D1%82&action=show-download-screen
+    - listitem:
+      - link "Версия для печати":
+        - /url: /w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&printable=yes
+- navigation "В других проектах":
+  - heading "В других проектах" [level=3]
+  - list:
+    - listitem:
+      - link "Викивиды":
+        - /url: https://species.wikimedia.org/wiki/Test
+    - listitem:
+      - link "Элемент Викиданных":
+        - /url: https://www.wikidata.org/wiki/Special:EntityPage/Q224615
+- navigation "На других языках":
+  - button "Установки языка"
+  - heading "На других языках" [level=3]
+  - list:
+    - listitem:
+      - link "العربية":
+        - /url: https://ar.wikipedia.org/wiki/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_(%D8%AA%D9%88%D8%B6%D9%8A%D8%AD)
+    - listitem:
+      - link "Čeština":
+        - /url: https://cs.wikipedia.org/wiki/Testov%C3%A1n%C3%AD
+    - listitem:
+      - link "Deutsch":
+        - /url: https://de.wikipedia.org/wiki/Test_(Begriffskl%C3%A4rung)
+    - listitem:
+      - link "English":
+        - /url: https://en.wikipedia.org/wiki/Test
+    - listitem:
+      - link "Español":
+        - /url: https://es.wikipedia.org/wiki/Test
+    - listitem:
+      - link "हिन्दी":
+        - /url: https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3
+    - listitem:
+      - link "Polski":
+        - /url: https://pl.wikipedia.org/wiki/Test
+    - listitem:
+      - link "Slovenčina":
+        - /url: https://sk.wikipedia.org/wiki/Test
+    - listitem:
+      - link "中文":
+        - /url: https://zh.wikipedia.org/wiki/%E6%B5%8B%E8%AF%95
+    - button "Ещё 22"
+  - link "Править ссылки":
+    - /url: https://www.wikidata.org/wiki/Special:EntityPage/Q224615#sitelinks-wikipedia
+- contentinfo:
+  - list:
+    - listitem: Эта страница в последний раз была отредактирована 7 июля 2025 в 09:02.
+    - listitem:
+      - text: Текст доступен по
+      - link "лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)":
+        - /url: //creativecommons.org/licenses/by-sa/4.0/deed.ru
+      - text: ; в отдельных случаях могут действовать дополнительные условия. Подробнее см.
+      - link "Условия использования":
+        - /url: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru
+      - text: . Wikipedia® — зарегистрированный товарный знак некоммерческой организации
+      - link "«Фонд Викимедиа» (Wikimedia Foundation, Inc.)":
+        - /url: https://wikimediafoundation.org/ru/
+  - list:
+    - listitem:
+      - link "Политика конфиденциальности":
+        - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru
+    - listitem:
+      - link "Описание Википедии":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5
+    - listitem:
+      - link "Отказ от ответственности":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8
+    - listitem:
+      - link "Свяжитесь с нами":
+        - /url: //ru.wikipedia.org/wiki/Википедия:Контакты
+    - listitem:
+      - link "Кодекс поведения":
+        - /url: https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru
+    - listitem:
+      - link "Разработчики":
+        - /url: https://developer.wikimedia.org
+    - listitem:
+      - link "Статистика":
+        - /url: https://stats.wikimedia.org/#/ru.wikipedia.org
+    - listitem:
+      - link "Заявление о куки":
+        - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+    - listitem:
+      - link "Мобильная версия":
+        - /url: //ru.m.wikipedia.org/w/index.php?title=%D0%A2%D0%B5%D1%81%D1%82&mobileaction=toggle_view_mobile
+  - list:
+    - listitem:
+      - link "Wikimedia Foundation":
+        - /url: https://www.wikimedia.org/
+        - img "Wikimedia Foundation"
+    - listitem:
+      - link "Powered by MediaWiki":
+        - /url: https://www.mediawiki.org/
+        - img "Powered by MediaWiki"
+- list
+```

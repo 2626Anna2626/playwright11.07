@@ -1,0 +1,379 @@
+# Page snapshot
+
+```yaml
+- main:
+  - button "Ключевые слова"
+  - link "Полная справка":
+    - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA
+  - heading "Результаты поиска" [level=1]
+  - link "Перейти к навигации":
+    - /url: "#mw-head"
+  - link "Перейти к поиску":
+    - /url: "#searchInput"
+  - combobox: тестирование
+  - button "Найти"
+  - text: Результаты
+  - strong: 1—20
+  - text: из
+  - strong: "6696"
+  - 'button "Расширенный поиск: Сортировать по релевантности"':
+    - text: "Расширенный поиск:"
+    - list "Используемые в настоящее время поисковые запросы":
+      - listitem "релевантности": Сортировать по релевантности
+  - 'button "Поиск по: (Основное)"':
+    - text: "Поиск по:"
+    - list "Активные фильтры пространств имён":
+      - listitem "(Основное)":
+        - text: (Основное)
+        - button "Удалить"
+  - paragraph:
+    - text: Есть страница
+    - link "Тестирование":
+      - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+    - text: (
+    - link "страницы, начинающиеся с этого названия":
+      - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%BE_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%83_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+    - text: •
+    - link "ссылающиеся на это название":
+      - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+    - text: )
+  - text: Просмотреть (предыдущие 20 |
+  - link "следующие 20":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=20&offset=20&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: ) (20 |
+  - link "50":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=50&offset=0&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: "|"
+  - link "100":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=100&offset=0&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: "|"
+  - link "250":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=250&offset=0&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: "|"
+  - link "500":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=500&offset=0&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: )
+  - list:
+    - listitem:
+      - link "Тест":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82
+      - text: (перенаправление с
+      - link "Тестирование":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: ) выявления ошибок в компьютерных программах используют Тестирование программного обеспечения Бета-тестирование Также к области программирования можно отнести... 6 КБ (380 слов) - 09:02, 7 июля 2025
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Централизованное тестирование":
+        - /url: /wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: пробных экзаменов или олимпиад). Тестирование проводится один раз в год по утверждённому расписанию. Обычно тестирование проводится в апреле, поэтому его... 37 КБ (2151 слово) - 11:02, 5 июля 2025
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Тестирование программного обеспечения":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F
+      - text: Интеграционное тестирование Системное тестирование По времени проведения тестирования[источник не указан 3855 дней] Альфа-тестирование Дымовое тестирование (англ... 33 КБ (1947 слов) - 17:38, 25 марта 2025
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Бета-тестирование":
+        - /url: /wiki/%D0%91%D0%B5%D1%82%D0%B0-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: большинстве случаев бета-тестирование является открытым, а доработки производятся в процессе функционирования сайта. Бета-тестирование может быть открытым... 6 КБ (358 слов) - 17:29, 11 октября 2024
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Автоматизированное тестирование":
+        - /url: /wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: кода и тестирование пользовательского интерфейса (в частности, GUI-тестирование). К первому типу относится, в частности, модульное тестирование. Ко второму —... 14 КБ (830 слов) - 15:28, 30 мая 2025
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Регрессионное тестирование":
+        - /url: /wiki/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: Регрессио́нное тести́рование (англ. regression testing ← лат. regressio «движение назад, возврат, отход») — собирательное название для всех видов тестирования программного... 23 КБ (1421 слово) - 23:38, 12 июня 2024
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Системное тестирование":
+        - /url: /wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: Альфа-тестирование и бета-тестирование являются подкатегориями системного тестирования. Функциональное тестирование Тестирование пользовательского интерфейса... 2 КБ (84 слова) - 16:32, 16 апреля 2023
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Входное тестирование":
+        - /url: /wiki/%D0%92%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: онлайн-курсы устанавливают входное тестирование как обязательный элемент учебного плана. Возможные форматы входного тестирования — установочная беседа, опрос... 2 КБ (107 слов) - 13:52, 11 февраля 2024
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Психологическое тестирование":
+        - /url: /wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: особенностей, стал термин «психологическое тестирование». Первоначально термин «психологическое тестирование» использовался широко, включая в себя любое... 31 КБ (1782 слова) - 17:28, 20 марта 2025
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Интеграционное тестирование":
+        - /url: /wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: Интеграцио́нное тести́рование (англ. Integration testing, иногда называется англ. Integration and Testing, аббревиатура англ. I&T) — одна из фаз тестирования программного... 6 КБ (297 слов) - 14:36, 24 февраля 2024
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Ручное тестирование":
+        - /url: /wiki/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: Автоматизированное тестирование Бета-тестирование Интеграционное тестирование Разработка через тестирование Регрессионное тестирование Система отслеживания... 2 КБ (85 слов) - 12:14, 9 марта 2023
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Разработка через тестирование":
+        - /url: /wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: тестирование поощряет простой дизайн и внушает уверенность (англ. inspires confidence). В 1999 году при своём появлении разработка через тестирование... 43 КБ (2956 слов) - 20:17, 31 июля 2024
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Функциональное тестирование":
+        - /url: /wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: Интеграционное тестирование Модульное тестирование Нагрузочное тестирование Автоматизированное тестирование Об функциональном тестировании на сайте QA evolution... 4 КБ (184 слова) - 14:18, 30 января 2024
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Единое национальное тестирование":
+        - /url: /wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: магистратуры. В Беларуси — Централизованное тестирование В Кыргызстане — Общереспубликанское Тестирование В Армении — Единые экзамены В Грузии — Единые... 13 КБ (804 слова) - 08:19, 8 июня 2025
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Модульное тестирование":
+        - /url: /wiki/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: Модульное тестирование, иногда блочное тестирование или юнит-тестирование (англ. unit testing) — процесс в программировании, позволяющий проверить на... 36 КБ (2245 слов) - 16:05, 9 июля 2025
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Педагогическое тестирование":
+        - /url: /wiki/%D0%9F%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: сравнению с другими формами контроля знаний тестирование имеет свои преимущества и недостатки. Тестирование является более качественным и объективным способом... 19 КБ (1126 слов) - 14:03, 30 января 2024
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Аттестационное тестирование":
+        - /url: /wiki/%D0%90%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: на тестировании соответствия стандартам. Такое тестирование гарантирует большее соответствие стандарту. Хотя никакое аттестационное тестирование не способно... 3 КБ (127 слов) - 02:45, 4 июня 2022
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Тестирование безопасности":
+        - /url: /wiki/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8
+      - text: результате информации. Тестирование программного обеспечения Тестирование интерфейса пользователя Тестирование локализации Тестирование безопасности — protesting... 3 КБ (151 слово) - 09:17, 17 апреля 2022
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Аллергологическое тестирование":
+        - /url: /wiki/%D0%90%D0%BB%D0%BB%D0%B5%D1%80%D0%B3%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: Аллергологическое тестирование, или взятие аллергологических проб, — разновидность диагностики, проводимая с целью определения индивидуальной переносимости... 4 КБ (238 слов) - 11:28, 26 мая 2020
+      - button "Открыть предпросмотр этой статьи."
+    - listitem:
+      - link "Миниатюра для Furmark":
+        - /url: /wiki/Furmark
+        - img "Миниатюра для Furmark"
+      - link "Furmark":
+        - /url: /wiki/Furmark
+      - text: программа для проведения тестирования устройств обработки графики. Основан на API OpenGL. Основное предназначение FurMark — тестирование стабильности GPU и... 3 КБ (131 слово) - 12:58, 15 мая 2025
+      - button "Открыть предпросмотр этой статьи."
+  - list:
+    - listitem:
+      - link "В Викиновостях":
+        - /url: https://ru.wikinews.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+      - link "Тестирование производительности PHP акселераторов":
+        - /url: https://ru.wikinews.org/wiki/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_PHP_%D0%B0%D0%BA%D1%81%D0%B5%D0%BB%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2
+      - text: Wayback Machine)" - тестирование производительности PHP акселераторов. С большим отрывом лидирует APC. Описание как проводилось тестирование (Архивная копия
+      - link "Увидеть все результаты":
+        - /url: https://ru.wikinews.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+    - listitem:
+      - link "В Викиучебнике":
+        - /url: https://ru.wikibooks.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+      - link "Словарик философствующего информатика/Тестирование":
+        - /url: https://ru.wikibooks.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D0%BA_%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: "приходится выполнять: Модульное тестирование Комплексное тестирование Подтверждение правильности и верификация Тестирование в условиях нехватки ресурсов"
+      - link "Увидеть все результаты":
+        - /url: https://ru.wikibooks.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+    - listitem:
+      - link "В Викитеке":
+        - /url: https://ru.wikisource.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+      - link "Федеральный закон от 08.01.1998 № 3-ФЗ/Глава VI.1":
+        - /url: https://ru.wikisource.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BE%D1%82_08.01.1998_%E2%84%96_3-%D0%A4%D0%97/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_VI.1
+      - text: "психотропных веществ, которая включает в себя: социально-психологическое тестирование обучающихся в общеобразовательных организациях и профессиональных образовательных"
+      - link "Увидеть все результаты":
+        - /url: https://ru.wikisource.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+    - listitem:
+      - link "В Викисловаре":
+        - /url: https://ru.wiktionary.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+      - link "тестирование":
+        - /url: https://ru.wiktionary.org/wiki/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+      - text: чего-либо ◆ Мы проводили тестирование на шести образцах. проверка знаний учащегося при помощи тестов ◆ Завтра снова тестирование в школе. проверка проверка
+      - link "Увидеть все результаты":
+        - /url: https://ru.wiktionary.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+    - listitem:
+      - link "В Викиверситете":
+        - /url: https://ru.wikiversity.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+      - link "Тестирующие программы":
+        - /url: https://ru.wikiversity.org/wiki/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B
+      - text: Изучите материал педагогическое тестирование, особое внимание обратите на раздел ссылки. В этом разделе проработать "Интернет-экзамен в сфере профессионального
+      - link "Увидеть все результаты":
+        - /url: https://ru.wikiversity.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+    - listitem:
+      - link "В Викицитатнике":
+        - /url: https://ru.wikiquote.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+      - link "Кент Бек":
+        - /url: https://ru.wikiquote.org/wiki/%D0%9A%D0%B5%D0%BD%D1%82_%D0%91%D0%B5%D0%BA
+      - text: "разработки ПО как экстремальное программирование (XP) и разработка через тестирование (TDD). Оптимизм — это профессиональный источник опасности для программиста:"
+      - link "Увидеть все результаты":
+        - /url: https://ru.wikiquote.org/wiki/Special:Search?search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1
+    - listitem:
+      - strong: Мультимедиа
+      - link:
+        - /url: /wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9C%D0%A0%D0%9B%D0%A1_%D0%92%D0%BE%D0%BB%D0%BD%D0%B0.jpg
+      - link:
+        - /url: /wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9C%D0%A1%D0%9C,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B8_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%92%D0%98%D0%A7_%D0%B2_%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D1%85_12_%D0%BC%D0%B5%D1%81.png
+      - link:
+        - /url: /wiki/%D0%A4%D0%B0%D0%B9%D0%BB:File-Oxygen_toxicity_testing.jpeg
+      - link "ещё результаты":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Search&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&fulltext=1&profile=images
+  - paragraph:
+    - text: Искать в (
+    - link "Google":
+      - /url: https://google.com/search?q=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+site:ru.wikipedia.org&hl=ru
+    - text: "|"
+    - link "Яндексе":
+      - /url: https://yandex.ru/yandsearch?text=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&site=ru.wikipedia.org
+    - text: "|"
+    - link "Bing":
+      - /url: https://www.bing.com/search?q=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+site:ru.wikipedia.org
+    - text: )
+  - text: Просмотреть (предыдущие 20 |
+  - link "следующие 20":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=20&offset=20&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: ) (20 |
+  - link "50":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=50&offset=0&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: "|"
+  - link "100":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=100&offset=0&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: "|"
+  - link "250":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=250&offset=0&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: "|"
+  - link "500":
+    - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=500&offset=0&profile=default&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+  - text: )
+- heading "Навигация" [level=2]
+- navigation "Персональные инструменты":
+  - list:
+    - listitem: Вы не представились системе
+    - listitem:
+      - link "Обсуждение":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+    - listitem:
+      - link "Вклад":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4
+    - listitem:
+      - link "Создать учётную запись":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&returnto=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&returntoquery=fulltext%3D%25D0%259D%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B8%26ns0%3D1%26search%3D%25D1%2582%25D0%25B5%25D1%2581%25D1%2582%25D0%25B8%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5
+    - listitem:
+      - link "Войти":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&returnto=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&returntoquery=fulltext%3D%25D0%259D%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B8%26ns0%3D1%26search%3D%25D1%2582%25D0%25B5%25D1%2581%25D1%2582%25D0%25B8%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5
+- navigation "Пространства имён":
+  - list:
+    - listitem:
+      - link "Служебная страница":
+        - /url: /w/index.php?fulltext=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&ns0=1&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A%D0%9F%D0%BE%D0%B8%D1%81%D0%BA
+- search:
+  - heading "Поиск" [level=3]
+  - searchbox "Искать в Википедии"
+  - button "Перейти"
+- banner:
+  - link "Перейти на заглавную страницу":
+    - /url: /wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+- navigation "Навигация":
+  - list:
+    - listitem:
+      - link "Заглавная страница":
+        - /url: /wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+    - listitem:
+      - link "Содержание":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5
+    - listitem:
+      - link "Избранные статьи":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8
+    - listitem:
+      - link "Случайная статья":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+    - listitem:
+      - link "Текущие события":
+        - /url: /wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F
+    - listitem:
+      - link "Пожертвовать":
+        - /url: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=ru.wikipedia.org&uselang=ru
+- navigation "Участие":
+  - heading "Участие" [level=3]
+  - list:
+    - listitem:
+      - button "Сообщить об ошибке"
+    - listitem:
+      - link "Как править статьи":
+        - /url: /wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+    - listitem:
+      - link "Сообщество":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+    - listitem:
+      - link "Форум":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC
+    - listitem:
+      - link "Справка":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0
+    - listitem:
+      - link "Свежие правки":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8
+    - listitem:
+      - link "Новые страницы":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B
+    - listitem:
+      - link "Служебные страницы":
+        - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B
+- navigation "Инструменты":
+  - heading "Инструменты" [level=3]
+  - list:
+    - listitem:
+      - link "Версия для печати":
+        - /url: javascript:print();
+    - listitem:
+      - link "Получить короткий URL":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&url=https%3A%2F%2Fru.wikipedia.org%2Fw%2Findex.php%3Ftitle%3D%25D0%25A1%25D0%25BB%25D1%2583%25D0%25B6%25D0%25B5%25D0%25B1%25D0%25BD%25D0%25B0%25D1%258F%3A%25D0%259F%25D0%25BE%25D0%25B8%25D1%2581%25D0%25BA%26fulltext%3D%25D0%259D%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B8%26ns0%3D1%26search%3D%25D1%2582%25D0%25B5%25D1%2581%25D1%2582%25D0%25B8%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5
+    - listitem:
+      - link "Скачать QR-код":
+        - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&url=https%3A%2F%2Fru.wikipedia.org%2Fw%2Findex.php%3Ftitle%3D%25D0%25A1%25D0%25BB%25D1%2583%25D0%25B6%25D0%25B5%25D0%25B1%25D0%25BD%25D0%25B0%25D1%258F%3A%25D0%259F%25D0%25BE%25D0%25B8%25D1%2581%25D0%25BA%26fulltext%3D%25D0%259D%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B8%26ns0%3D1%26search%3D%25D1%2582%25D0%25B5%25D1%2581%25D1%2582%25D0%25B8%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5
+- navigation "Языки":
+  - button "Установки языка"
+  - heading "Языки" [level=3]
+  - list
+- contentinfo:
+  - list
+  - list:
+    - listitem:
+      - link "Политика конфиденциальности":
+        - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru
+    - listitem:
+      - link "Описание Википедии":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5
+    - listitem:
+      - link "Отказ от ответственности":
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8
+    - listitem:
+      - link "Свяжитесь с нами":
+        - /url: //ru.wikipedia.org/wiki/Википедия:Контакты
+    - listitem:
+      - link "Кодекс поведения":
+        - /url: https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru
+    - listitem:
+      - link "Разработчики":
+        - /url: https://developer.wikimedia.org
+    - listitem:
+      - link "Статистика":
+        - /url: https://stats.wikimedia.org/#/ru.wikipedia.org
+    - listitem:
+      - link "Заявление о куки":
+        - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+    - listitem:
+      - link "Мобильная версия":
+        - /url: //ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&fulltext=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&ns0=1&search=%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&mobileaction=toggle_view_mobile
+  - list:
+    - listitem:
+      - link "Wikimedia Foundation":
+        - /url: https://www.wikimedia.org/
+        - img "Wikimedia Foundation"
+    - listitem:
+      - link "Powered by MediaWiki":
+        - /url: https://www.mediawiki.org/
+        - img "Powered by MediaWiki"
+- list
+```
